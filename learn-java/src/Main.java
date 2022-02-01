@@ -365,6 +365,9 @@ public class Main {
             this.opreatingSysyem = theOperatingSystem;
             this.screenSize = theScreenSize;
 
+            int x = 3 / 5;
+            System.out.println(1 + "is" + x * 20);
+
         }
     }
 }
