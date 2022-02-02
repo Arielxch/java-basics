@@ -39,7 +39,7 @@ public class Module4MethodSamples {
 
     public static double area (int radius){
         double theResult = Math.PI* Math.pow(radius, 2);
-        return theResult;
+        return theResult; // if the "double" is "void", just return, do not put theResult after
     }
 
     public static boolean name(String herName){
