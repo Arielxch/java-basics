@@ -1,7 +1,6 @@
 import javax.swing.*;
-import java.util.Scanner;
 
-public class JavaWhileLoop {
+public class WhileLoop {
     public static void main(String[] args) {
          // while loop = executes a block of code as long as its condition remains true
 
@@ -13,7 +12,8 @@ public class JavaWhileLoop {
 //        }
 //        System.out.println("Hello! " + name);
 //
-        String name = "";
+        String name = ""; // this is very important, without the empty string, the while loop won't be able to start
+        // because only when name is blank, the condition of the while loop is met;
         while (name.isBlank()){
             name = JOptionPane.showInputDialog("What is your name");
         }

@@ -2,17 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/learn-java/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/multiDimensionalArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-java/learn-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/registration/registration.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/AndOrNotLogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/AndOrNotLogicalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/GUIIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/GUIIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/IfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/IfStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/JavaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/JavaExpressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/MathClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/MathClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/NestedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/RandomNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/RandomNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/SwapVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/SwapVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/UserInputWithScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/UserInputWithScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/WhileLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24Wq3bRxFS6ADjcdUeLXg8vLJN8" />
   <component name="ProjectViewState">
@@ -22,10 +44,57 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
+      <module name="learn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoop" />
+      <module name="learn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUIIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUIIntro" />
+      <module name="learn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NestedLoop" />
+      <module name="learn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
+      <module name="learn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.NestedLoop" />
+        <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.GUIIntro" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
