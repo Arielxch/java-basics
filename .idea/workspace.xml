@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-java/src/StringMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java/src/wrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/NestedLoopPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/OverloadedMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/NestedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/multiDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/MultiDimensionalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/wrapperClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/wrapperClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/lecture.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/out/production/lecture/Module4ArraySample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/out/production/lecture/Module4LoopSamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/out/production/lecture/Module4MethodSamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/out/production/lecture/Module4SecondSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/src/Module4ArraySample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/src/Module4LoopSamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/src/Module4MethodSamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/src/Module4SecondSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learn-java/NestedLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-java/NestedLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learn-java/multiDimensionalArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-java/multiDimensionalArray.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +58,23 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.StringMethod">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array" />
-      <module name="learn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoop" />
-      <module name="learn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NestedLoopPatterns">
     <configuration name="NestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NestedLoop" />
+      <module name="learn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedLoopPatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NestedLoopPatterns" />
+      <module name="learn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverloadedMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OverloadedMethod" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multiDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiDimensionalArray" />
+    <configuration name="wrapperClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wrapperClasses" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringMethod" />
-        <item itemvalue="Application.multiDimensionalArray" />
-        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.NestedLoopPatterns" />
         <item itemvalue="Application.NestedLoop" />
-        <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.OverloadedMethod" />
+        <item itemvalue="Application.wrapperClasses" />
+        <item itemvalue="Application.StringMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -106,5 +125,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn-java/src/NestedLoop.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
