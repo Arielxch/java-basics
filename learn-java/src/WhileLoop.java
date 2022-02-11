@@ -111,7 +111,7 @@ public class WhileLoop {
 //
 //        }
 // request 3 times for 3 numbers; print these numbers
-// if any number is a non-integer or empty, repeat question of the current number (which does not meet the requirement)
+// if any number is not 1-10; 2-20; 3-30 or empty, repeat question of the current number (which does not meet the requirement)
 
         Scanner theRequest = new Scanner (System.in);
         String number1 ="";
@@ -122,50 +122,60 @@ public class WhileLoop {
         boolean isNum3Blank = number3.isBlank();
 
         while (isNum1Blank) {
-            System.out.println("Enter the first integer.");
+            System.out.println("Enter first number between 1- 10");
             number1 = theRequest.nextLine();
             isNum1Blank = number1.isBlank();
-            if (isNum1Blank ){
-            } else {
-                System.out.println("The number you enter is " + number1);
-                isNum1Blank=number1.isBlank();
-            }
-
-        }
-
-        while (isNum2Blank){
-            System.out.println("Enter the second integer.");
-            number2= theRequest.nextLine();
-            isNum2Blank = number2.isBlank();
-            if(isNum1Blank){
-            } else {
-                System.out.println("The number you enter is " + number2);
-                isNum1Blank = !number2.isBlank();
+            if (!isNum1Blank) {
+                int num1Int = Integer.parseInt(number1);
+                if (num1Int >= 1 && num1Int <= 10) {
+                    System.out.println("the number you enter is " + number1);
+                } else {
+                    System.out.println("the number you enter is not valid");
+                    isNum1Blank=true;
+                }
             }
         }
+
+        while (isNum2Blank) {
+            System.out.println("Enter number 2 between 20 to 30");
+            number2=theRequest.nextLine();
+            isNum2Blank= number2.isBlank();
+            if (!isNum2Blank){
+                int number2Int = Integer.parseInt(number2);
+                    if (number2Int > 20 && number2Int < 30){
+                        System.out.println(number2 + " is between 20 to 30");
+                    } else {
+                        System.out.println("The number you entered is invalid");
+                        isNum2Blank = true;
+                    }
+                }
+            }
 
         while (isNum3Blank) {
-            System.out.println("Enter the third number");
-            number3=theRequest.nextLine();
+            System.out.println("Enter the third number between 30 to 40");
+            number3 = theRequest.nextLine();
             isNum3Blank = number3.isBlank();
-            if (isNum3Blank) {
-            } else {
-                System.out.println("The number you enter is " + number3);
-                isNum1Blank = !number3.isBlank();
+            if (!isNum3Blank){
+                int number3Int = Integer.parseInt(number3);
+                if (number3Int > 30 && number3Int < 40){
+                    System.out.println(number3 + " is between 30 to 40");
+                } else {
+                    System.out.println(number3 + " is not a valid number");
+                    isNum3Blank = true;
+                }
             }
         }
 
 
 
 
-
-
-
-
-
+        }
 
 
 
 
     }
-}
+
+
+
+
