@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-java/src/RecursionSmallProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/LearnArrayListProgram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-java/src/learnRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/learnRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/WhileLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-java/WhileLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learn-java/learnRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-java/learnRecursion.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +47,16 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.RecursionSmallProject">
-    <configuration name="NestedLoopPatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NestedLoopPatterns" />
+  <component name="RunManager" selected="Application.ForEachLoop">
+    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForEachLoop" />
+      <module name="learn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnArrayListProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LearnArrayListProgram" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,13 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="doWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="doWhile" />
-      <module name="learn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="learnRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learnRecursion" />
       <module name="learn-java" />
@@ -87,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForEachLoop" />
+        <item itemvalue="Application.LearnArrayListProgram" />
         <item itemvalue="Application.RecursionSmallProject" />
         <item itemvalue="Application.learnRecursion" />
         <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.doWhile" />
-        <item itemvalue="Application.NestedLoopPatterns" />
       </list>
     </recent_temporary>
   </component>
