@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-java/src/doWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java/src/learnRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/RecursionSmallProject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-java/src/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/learnRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/learnRecursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/learn-java/WhileLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-java/WhileLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learn-java/learnRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learn-java/learnRecursion.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +49,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.WhileLoop">
-    <configuration name="NestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NestedLoop" />
-      <module name="learn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RecursionSmallProject">
     <configuration name="NestedLoopPatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NestedLoopPatterns" />
       <module name="learn-java" />
@@ -64,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverloadedMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OverloadedMethod" />
+    <configuration name="RecursionSmallProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursionSmallProject" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,13 +78,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="learnRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnRecursion" />
+      <module name="learn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursionSmallProject" />
+        <item itemvalue="Application.learnRecursion" />
         <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.doWhile" />
         <item itemvalue="Application.NestedLoopPatterns" />
-        <item itemvalue="Application.NestedLoop" />
-        <item itemvalue="Application.OverloadedMethod" />
       </list>
     </recent_temporary>
   </component>
