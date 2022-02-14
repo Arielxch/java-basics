@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-java/src/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java/src/LearnArrayListProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/UseOfBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/UseOfContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/UseOfReturn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +48,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.ForEachLoop">
+  <component name="RunManager" selected="Application.UseOfContinue">
     <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForEachLoop" />
       <module name="learn-java" />
@@ -62,22 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionSmallProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursionSmallProject" />
+    <configuration name="UseOfBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseOfBreak" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
+    <configuration name="UseOfContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseOfContinue" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="learnRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learnRecursion" />
+    <configuration name="UseOfReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseOfReturn" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseOfContinue" />
+        <item itemvalue="Application.UseOfReturn" />
+        <item itemvalue="Application.UseOfBreak" />
         <item itemvalue="Application.ForEachLoop" />
         <item itemvalue="Application.LearnArrayListProgram" />
-        <item itemvalue="Application.RecursionSmallProject" />
-        <item itemvalue="Application.learnRecursion" />
-        <item itemvalue="Application.WhileLoop" />
       </list>
     </recent_temporary>
   </component>
