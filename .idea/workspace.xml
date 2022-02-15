@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-java/src/UseOfBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java/src/UseOfContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java/src/UseOfReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Email-validation/Email-validation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Email-validation/src/EmailValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/BooleanInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/IncrementAndDecrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,42 +45,42 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.UseOfContinue">
-    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForEachLoop" />
+  <component name="RunManager" selected="Application.IncrementAndDecrement">
+    <configuration name="BooleanInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BooleanInJava" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnArrayListProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LearnArrayListProgram" />
+    <configuration name="EmailValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmailValidation" />
+      <module name="Email-validation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncrementAndDecrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IncrementAndDecrement" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseOfBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UseOfBreak" />
+    <configuration name="quizQ4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quizQ4" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseOfContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UseOfContinue" />
-      <module name="learn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UseOfReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UseOfReturn" />
+    <configuration name="quizQ5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quizQ5" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UseOfContinue" />
-        <item itemvalue="Application.UseOfReturn" />
-        <item itemvalue="Application.UseOfBreak" />
-        <item itemvalue="Application.ForEachLoop" />
-        <item itemvalue="Application.LearnArrayListProgram" />
+        <item itemvalue="Application.IncrementAndDecrement" />
+        <item itemvalue="Application.BooleanInJava" />
+        <item itemvalue="Application.EmailValidation" />
+        <item itemvalue="Application.quizQ5" />
+        <item itemvalue="Application.quizQ4" />
       </list>
     </recent_temporary>
   </component>
