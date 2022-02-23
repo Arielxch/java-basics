@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-java/src/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java/src/Printf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java/src/ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/ForEachLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Printf">
+  <component name="RunManager" selected="Application.ForEachLoop">
     <configuration name="BooleanInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BooleanInJava" />
       <module name="learn-java" />
@@ -55,9 +55,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmailValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EmailValidation" />
-      <module name="Email-validation" />
+    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForEachLoop" />
+      <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForEachLoop" />
         <item itemvalue="Application.Printf" />
         <item itemvalue="Application.Method" />
         <item itemvalue="Application.IncrementAndDecrement" />
         <item itemvalue="Application.BooleanInJava" />
-        <item itemvalue="Application.EmailValidation" />
       </list>
     </recent_temporary>
   </component>

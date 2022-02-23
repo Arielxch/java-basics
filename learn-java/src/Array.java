@@ -49,10 +49,50 @@ public class Array {
             System.out.println(theNumbers[i]);
         }
 
+//        initial value of an array
+        boolean [] myBoolean = new boolean[2];
+        theBoolean(myBoolean);
+
+        int[] myInt = new int[2];
+        theInt(myInt);
+
+        String[] myString = new String[2];
+        theString(myString);
+
+        double[] myDouble = new double[2];
+        theDouble(myDouble);
+
+
 
 
 
 
 
     }
+
+    public static void theBoolean(boolean[]a){
+        for (boolean b: a){
+            System.out.println(b + " is the initial value of an array of boolean");
+        }
+    }
+
+    public static void theInt (int[]a){
+        for(int s:a){
+            System.out.println(s + " is the initial value of an array of integer");
+        }
+    }
+
+    public static void theString (String[]a){
+        for (String s: a){
+            System.out.println(s + " is the initial value of an array of string");
+        }
+    }
+
+    public static void theDouble (double[]a){
+        for (double s: a){
+            System.out.println(s + " is the initial value of an array of double");
+        }
+    }
+
+
 }
