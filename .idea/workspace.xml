@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-java/src/ArraySortAndArrayParallelSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java/src/ArrayToStringAndArraysDeepToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java/src/Palindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coungting/src/CountingProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/theThreadLocalRandom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Email-validation/Email-validation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Email-validation/src/EmailValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coungting/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coungting/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coungting/coungting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coungting/coungtingProgram.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coungting/src/Counting.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Palindromes">
+  <component name="RunManager" selected="Application.theThreadLocalRandom">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array" />
       <module name="learn-java" />
@@ -72,13 +72,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForEachLoop" />
-      <module name="learn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Palindromes" />
       <module name="learn-java" />
@@ -86,13 +79,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="theThreadLocalRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="theThreadLocalRandom" />
+      <module name="learn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.theThreadLocalRandom" />
         <item itemvalue="Application.Palindromes" />
         <item itemvalue="Application.ArraySortAndArrayParallelSort" />
         <item itemvalue="Application.ArrayToStringAndArraysDeepToString" />
         <item itemvalue="Application.Array" />
-        <item itemvalue="Application.ForEachLoop" />
       </list>
     </recent_temporary>
   </component>
