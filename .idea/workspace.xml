@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/learn-java/src/ArraySortAndArrayParallelSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/ArrayToStringAndArraysDeepToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/Palindromes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-java/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-java/src/ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java/src/ForEachLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Email-validation/Email-validation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Email-validation/src/EmailValidation.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +50,23 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.ForEachLoop">
-    <configuration name="BooleanInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BooleanInJava" />
+  <component name="RunManager" selected="Application.Palindromes">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
+      <module name="learn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySortAndArrayParallelSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySortAndArrayParallelSort" />
+      <module name="learn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayToStringAndArraysDeepToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayToStringAndArraysDeepToString" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,22 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncrementAndDecrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IncrementAndDecrement" />
-      <module name="learn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Method" />
-      <module name="learn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Printf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Printf" />
+    <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindromes" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindromes" />
+        <item itemvalue="Application.ArraySortAndArrayParallelSort" />
+        <item itemvalue="Application.ArrayToStringAndArraysDeepToString" />
+        <item itemvalue="Application.Array" />
         <item itemvalue="Application.ForEachLoop" />
-        <item itemvalue="Application.Printf" />
-        <item itemvalue="Application.Method" />
-        <item itemvalue="Application.IncrementAndDecrement" />
-        <item itemvalue="Application.BooleanInJava" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +200,66 @@
           <url>file://$PROJECT_DIR$/learn-java/src/WhileLoop.java</url>
           <line>171</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn-java/src/Array.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn-java/src/Array.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn-java/src/Array.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn-java/src/Array.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn-java/src/Array.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn-java/src/Array.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn-java/src/Array.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn-java/src/Array.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn-java/src/Palindromes.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn-java/src/Palindromes.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn-java/src/Palindromes.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learn-java/src/WhileLoop.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
