@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/coungting/src/CountingProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java/src/theThreadLocalRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringInputProgram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringInputProgram/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringInputProgram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/ReplaceCharactersInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java/src/compareToAndCompareToIgnoreCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coungting/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coungting/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coungting/coungting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coungting/coungtingProgram.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coungting/src/Counting.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +50,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.theThreadLocalRandom">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array" />
-      <module name="learn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReplaceCharactersInAString">
     <configuration name="ArraySortAndArrayParallelSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraySortAndArrayParallelSort" />
       <module name="learn-java" />
@@ -65,15 +58,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayToStringAndArraysDeepToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayToStringAndArraysDeepToString" />
+    <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindromes" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindromes" />
+    <configuration name="ReplaceCharactersInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplaceCharactersInAString" />
+      <module name="learn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compareToAndCompareToIgnoreCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compareToAndCompareToIgnoreCase" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReplaceCharactersInAString" />
+        <item itemvalue="Application.compareToAndCompareToIgnoreCase" />
         <item itemvalue="Application.theThreadLocalRandom" />
         <item itemvalue="Application.Palindromes" />
         <item itemvalue="Application.ArraySortAndArrayParallelSort" />
-        <item itemvalue="Application.ArrayToStringAndArraysDeepToString" />
-        <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
   </component>
@@ -263,5 +263,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_basics$ReplaceCharactersInAString.ic" NAME="ReplaceCharactersInAString Coverage Results" MODIFIED="1645764276392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
