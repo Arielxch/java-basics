@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StringInputProgram/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringInputProgram/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringInputProgram/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java/src/ReplaceCharactersInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java/src/compareToAndCompareToIgnoreCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmailValidation/src/EmailValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/EmailValidation/src/EmailValidation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
