@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/learn-java/src/FinalKeyWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmailValidation/src/EmailValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/EmailValidation/src/EmailValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangle/out/production/RightTriangle/RightTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangle/out/production/RightTriangle/RightTriangle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +47,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.ReplaceCharactersInAString">
-    <configuration name="ArraySortAndArrayParallelSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraySortAndArrayParallelSort" />
+  <component name="RunManager" selected="Application.FinalKeyWord">
+    <configuration name="FinalKeyWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalKeyWord" />
       <module name="learn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalKeyWord" />
         <item itemvalue="Application.ReplaceCharactersInAString" />
         <item itemvalue="Application.compareToAndCompareToIgnoreCase" />
         <item itemvalue="Application.theThreadLocalRandom" />
         <item itemvalue="Application.Palindromes" />
-        <item itemvalue="Application.ArraySortAndArrayParallelSort" />
       </list>
     </recent_temporary>
   </component>
