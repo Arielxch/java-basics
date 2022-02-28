@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/learn-java/src/FinalKeyWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RightTriangle/out/production/RightTriangle/RightTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangle/out/production/RightTriangle/RightTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangle/out/production/RightTriangle/quiz3.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
