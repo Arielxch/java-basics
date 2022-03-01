@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbdec931-f594-4d60-be61-adbcc46835a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/RightTriangle/out/production/RightTriangle/quiz3.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/DiceRoller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/DiceRollerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/FoodMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/GarageMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/HumanMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/PizzaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/src/SecondCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,49 +61,49 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.FinalKeyWord">
-    <configuration name="FinalKeyWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalKeyWord" />
-      <module name="learn-java" />
+  <component name="RunManager" selected="Application.GarageMain">
+    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarMain" />
+      <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindromes" />
-      <module name="learn-java" />
+    <configuration name="DiceRollerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiceRollerMain" />
+      <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceCharactersInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplaceCharactersInAString" />
-      <module name="learn-java" />
+    <configuration name="FoodMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FoodMain" />
+      <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="compareToAndCompareToIgnoreCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compareToAndCompareToIgnoreCase" />
-      <module name="learn-java" />
+    <configuration name="GarageMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GarageMain" />
+      <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="theThreadLocalRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="theThreadLocalRandom" />
-      <module name="learn-java" />
+    <configuration name="PizzaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PizzaMain" />
+      <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FinalKeyWord" />
-        <item itemvalue="Application.ReplaceCharactersInAString" />
-        <item itemvalue="Application.compareToAndCompareToIgnoreCase" />
-        <item itemvalue="Application.theThreadLocalRandom" />
-        <item itemvalue="Application.Palindromes" />
+        <item itemvalue="Application.GarageMain" />
+        <item itemvalue="Application.FoodMain" />
+        <item itemvalue="Application.CarMain" />
+        <item itemvalue="Application.PizzaMain" />
+        <item itemvalue="Application.DiceRollerMain" />
       </list>
     </recent_temporary>
   </component>
